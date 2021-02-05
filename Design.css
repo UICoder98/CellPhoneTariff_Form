@@ -1,0 +1,14 @@
+html
+{
+    font-family: Arial, sans-serif;
+}
+
+td:first-child
+{
+   width: 40%;
+}
+
+fieldset
+{
+    margin-bottom: 20px;
+}
